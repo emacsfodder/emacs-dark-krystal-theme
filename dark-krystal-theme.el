@@ -1,8 +1,8 @@
 ;;; dark-krystal-theme.el --- an Emacs 24 theme based on Dark Krystal (tmTheme)
 ;;
-;;; Author: Auto Converted to Emacs 24 by tmtheme-to-deftheme (tm2deftheme)
-;;; Version: 1416104795
-;;; Original author: Todd Budnikas
+;;; Author: Jason Milkins
+;;; Version: 20141116
+ Todd Budnikas
 ;;; Url: https://github.com/emacsfodder/tmtheme-to-deftheme
 ;;; Package-Requires: ((emacs "24.0"))
 ;;
