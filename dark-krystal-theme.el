@@ -2,7 +2,7 @@
 ;;
 ;;; Author: Jason Milkins
 ;;; Version: 20141116
- Todd Budnikas
+;;; Sublime Text Theme Author: Todd Budnikas
 ;;; Url: https://github.com/emacsfodder/tmtheme-to-deftheme
 ;;; Package-Requires: ((emacs "24.0"))
 ;;
