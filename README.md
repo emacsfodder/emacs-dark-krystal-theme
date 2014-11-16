@@ -1,14 +1,4 @@
 
-# emacs-dark-krystal-theme
+# Emacs dark-krystal theme
 
-TODO: Add a proper README.md
-
-## Description
-
-## Usage
-
-## Licence
-
-## Contributing
-
-
+![](https://github.com/emacsfodder/emacs-dark-krystal-theme/raw/master/dark-krystal-theme.png)
